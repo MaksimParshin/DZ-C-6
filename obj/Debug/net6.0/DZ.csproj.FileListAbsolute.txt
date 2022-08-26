@@ -1,0 +1,15 @@
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\DZ\bin\Debug\net6.0\DZ.exe
+C:\Users\Maxim\Desktop\DZ\bin\Debug\net6.0\DZ.deps.json
+C:\Users\Maxim\Desktop\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+C:\Users\Maxim\Desktop\DZ\bin\Debug\net6.0\DZ.dll
+C:\Users\Maxim\Desktop\DZ\bin\Debug\net6.0\DZ.pdb
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.dll
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\refint\DZ.dll
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.pdb
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\DZ\obj\Debug\net6.0\ref\DZ.dll
